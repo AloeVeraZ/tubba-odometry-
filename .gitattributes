@@ -1,0 +1,11 @@
+*.step binary
+*.stp binary
+*.iges binary
+*.igs binary
+*.zip binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.csv text eol=lf
+*.md text eol=lf
+*.cff text eol=lf

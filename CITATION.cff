@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use or adapt Tubba Odometry, please credit it using this metadata."
+title: "Tubba Odometry for FTC"
+type: dataset
+authors:
+  - family-names: "Demetroulakos"
+    given-names: "Angelo"
+date-released: 2024-03-16
+license: CC-BY-4.0
+url: "https://grabcad.com/library/tubba-odometry-for-ftc-1"
+repository-code: "https://github.com/AloeVeraZ/tubba-odometry-"
+keywords:
+  - FTC
+  - odometry
+  - robotics
+  - dead wheel
+  - CAD
+abstract: >-
+  A compact dead-wheel odometry module for FIRST Tech Challenge robots,
+  designed by FTC Team 9384 around a 2-inch Dualie Omni Wheel and a REV
+  Through Bore Encoder.
