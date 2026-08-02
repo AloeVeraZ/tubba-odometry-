@@ -99,7 +99,6 @@ The original spreadsheet remains available [on Google Sheets](https://docs.googl
 - STEP is vendor-neutral and can be imported by Onshape, Fusion, SolidWorks, Inventor, FreeCAD, and most modern CAD systems.
 - The filename `outter plate.step` is intentionally preserved from the original GrabCAD package so checksums and source history remain easy to trace.
 - FTC field performance depends on preload, wheel wear, surface conditions, alignment, and calibration. Test repeatability on the actual competition robot.
-- Vendor names and product marks belong to their respective owners; their inclusion identifies compatible components and does not imply endorsement.
 
 ## Attribution and license
 
