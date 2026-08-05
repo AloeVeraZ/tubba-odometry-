@@ -16,25 +16,25 @@
 
 </div>
 
----
+
 
 ## What is Tubba?
 
 Tubba is a compact odometry pod developed by FTC Team 9384. It gives a robot a passive tracking wheel whose rotation can be measured independently from the drivetrain, providing the motion data used by localization systems such as Road Runner.
 
-The design is built around an AndyMark **2 in. Dualie Omni Wheel** in the **1/2 in. hex / 50A** configuration and a REV Through Bore Encoder. It was designed to fit inside the parallel-plate structure of Team 9384's 2023–2024 robot, **EggWUUUHH**.
+The design is built around an AndyMark **2 in. Dualie Omni Wheel** in the **1/2 in. hex / 50A** configuration and a REV Through Bore Encoder. It was designed to fit inside the parallel plate structure of Team 9384's 2023–2024 robot, **EggWUUUHH**.
 
 > [!NOTE]
-> The STEP assembly is the source of truth for geometry. Printer settings, tolerances, encoder wiring, and robot-specific mounting dimensions were not included with the original release; validate the model against your hardware before manufacturing.
+> The STEP assembly is the source of truth for geometry. Printer settings, tolerances, encoder wiring, and robot specific mounting dimensions were not included with the original release; validate the model against your hardware before manufacturing.
 
 ## Highlights
 
-- Compact, plate-mounted FTC odometry module
-- 2-inch omni tracking wheel for low lateral scrub
-- Absolute encoder-based wheel measurement
+- Compact, plate mounted FTC odometry module
+- 2 inch omni tracking wheel for low lateral scrub
+- Absolute encoder based wheel measurement
 - Individual STEP files plus a complete assembly
 - Source BOM with direct vendor links
-- Open hardware released under an attribution-required license
+- Open hardware released under an attribution required license
 
 ## Gallery
 
@@ -73,7 +73,7 @@ The list below is for **one module** and mirrors the original Team 9384 BOM. Pri
 
 | # | Component | Supplier | Part number | Qty. | Source cost |
 |---:|---|---|---|---:|---:|
-| 1 | 3D-printed parts | This repository | — | 1 per part | — |
+| 1 | 3D printed parts | This repository | — | 1 per part | — |
 | 2 | [Through Bore Encoder](https://www.revrobotics.com/rev-11-1271/) | REV Robotics | REV-11-1271 | 1 | $48.00 |
 | 3 | [2 in. Dualie Omni Wheel — 1/2 in. hex, 50A](https://www.andymark.com/products/2-in-dualie-omni-wheel) | AndyMark | — | 1 | $15.50 |
 | 4 | [1/2 in. hex ID × 1.125 in. OD shielded flanged bearing](https://www.andymark.com/products/0-5-in-hex-id-1-125-in-od-shielded-flanged-bearing-fr8zz-hexhd) | AndyMark | FR8ZZ-HexHD | 1 | $6.50 |
@@ -96,7 +96,7 @@ The original spreadsheet remains available [on Google Sheets](https://docs.googl
 
 ## Design notes
 
-- STEP is vendor-neutral and can be imported by Onshape, Fusion, SolidWorks, Inventor, FreeCAD, and most modern CAD systems.
+- STEP is vendor neutral and can be imported by Onshape, Fusion, SolidWorks, Inventor, FreeCAD, and most modern CAD systems.
 - The filename `outter plate.step` is intentionally preserved from the original GrabCAD package so checksums and source history remain easy to trace.
 - FTC field performance depends on preload, wheel wear, surface conditions, alignment, and calibration. Test repeatability on the actual competition robot.
 
