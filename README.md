@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="assets/images/assembly-render.png" alt="Tubba Odometry assembly render" width="760">
-
 # Tubba Odometry
 
 ### A compact dead-wheel odometry module for FTC robots
 
-[![FTC](https://img.shields.io/badge/FIRST-Tech_Challenge-0066B3?style=for-the-badge)](https://www.firstinspires.org/robotics/ftc)
-[![CAD](https://img.shields.io/badge/CAD-STEP%20%2F%20ISO%2010303-5C2D91?style=for-the-badge)](cad/)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-EF9421?style=for-the-badge)](LICENSE)
+[![FTC](https://img.shields.io/badge/FIRST-Tech_Challenge-111111?style=for-the-badge)](https://www.firstinspires.org/robotics/ftc)
+[![CAD](https://img.shields.io/badge/CAD-STEP%20%2F%20ISO%2010303-3f3f46?style=for-the-badge)](cad/)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-6b7280?style=for-the-badge)](LICENSE)
 
 **Designed by [Angelo Demetroulakos](https://grabcad.com/angelo.demetroulakos-1) · FTC Team 9384**
 
@@ -16,7 +14,11 @@
 
 </div>
 
+<p align="center">
+  <img src="assets/images/assembly-render.png" alt="Tubba Odometry assembly render" width="760">
+</p>
 
+---
 
 ## What is Tubba?
 
