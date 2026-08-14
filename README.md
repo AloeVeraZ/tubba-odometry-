@@ -4,9 +4,9 @@
 
 ### A compact dead-wheel odometry module for FTC robots
 
-[![FTC](https://img.shields.io/badge/FIRST-Tech_Challenge-111111?style=for-the-badge)](https://www.firstinspires.org/robotics/ftc)
-[![CAD](https://img.shields.io/badge/CAD-STEP%20%2F%20ISO%2010303-3f3f46?style=for-the-badge)](cad/)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-6b7280?style=for-the-badge)](LICENSE)
+[![FTC](https://img.shields.io/badge/FIRST-Tech_Challenge-00AEEF?style=for-the-badge&labelColor=0369A1)](https://www.firstinspires.org/robotics/ftc)
+[![CAD](https://img.shields.io/badge/CAD-STEP%20%2F%20ISO%2010303-7C3AED?style=for-the-badge&labelColor=5B21B6)](cad/)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-F59E0B?style=for-the-badge&labelColor=B45309)](LICENSE)
 
 **Designed by [Angelo Demetroulakos](https://grabcad.com/angelo.demetroulakos-1) · FTC Team 9384**
 
