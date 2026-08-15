@@ -16,6 +16,7 @@
 
 A high-accuracy, passive dead-wheel odometry module engineered with AndyMark Dualie omni wheels and REV Through Bore Encoders for real-time planar localization.
 
+<strong>Quick navigation:</strong><br>
 [Module Overview](#what-is-tubba) | [Bill of Materials](#bill-of-materials) | [CAD Files](cad/) | [Gallery](#gallery) | [GrabCAD Model](https://grabcad.com/library/tubba-odometry-for-ftc-1)
 
 </div>
@@ -90,11 +91,3 @@ Original design, models, and documentation © 2024–2026 **Angelo Demetroulakos
 Based on Tubba Odometry for FTC by Angelo Demetroulakos and FTC Team 9384 Hydraulic Hydras,
 licensed under CC BY 4.0. Source: https://grabcad.com/library/tubba-odometry-for-ftc-1
 ```
-
----
-
-<div align="center">
-
-Designed by **[Angelo Demetroulakos](https://grabcad.com/angelo.demetroulakos-1)** · **FTC Team 9384 Hydraulic Hydras**
-
-</div>
