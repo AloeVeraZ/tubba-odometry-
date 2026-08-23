@@ -14,7 +14,7 @@
   <img src="assets/images/assembly-render.png" alt="Tubba Odometry assembly render" width="820" draggable="false">
 </picture>
 
-A high-accuracy, passive dead-wheel odometry module engineered with AndyMark Dualie omni wheels and REV Through Bore Encoders for real-time planar localization.
+A compact dead-wheel pod built around an AndyMark Dualie omni wheel and REV Through Bore Encoder.
 
 <strong>Quick navigation:</strong><br>
 [Module Overview](#what-is-tubba) | [Bill of Materials](#bill-of-materials) | [CAD Files](cad/) | [Gallery](#gallery) | [GrabCAD Model](https://grabcad.com/library/tubba-odometry-for-ftc-1)
@@ -25,7 +25,7 @@ A high-accuracy, passive dead-wheel odometry module engineered with AndyMark Dua
 
 ## What is Tubba?
 
-**Tubba** is a compact dead-wheel odometry pod engineered by FTC Team 9384 Hydraulic Hydras. It provides a passive, unpowered omni tracking wheel in continuous ground contact, measuring independent translational and rotational displacement for dead reckoning and localization libraries such as Road Runner.
+**Tubba** is the compact odometry pod we made for FTC Team 9384. A spring-loaded omni wheel stays on the floor while the REV encoder measures movement for localization tools such as Road Runner.
 
 The assembly is built around an AndyMark **2 in. Dualie Omni Wheel** (1/2" hex, 50A durometer) paired with a **REV Through Bore Optical Encoder**. It was designed to package compactly between the parallel structural plates of Team 9384's 2023–2024 robot, **EggWUUUHH**.
 
@@ -38,7 +38,7 @@ The assembly is built around an AndyMark **2 in. Dualie Omni Wheel** (1/2" hex, 
 | Hardware standard | M3 socket head cap screws + hex nuts |
 
 > [!NOTE]
-> The STEP solid model serves as the dimensional source of truth. Validate your 3D printer slicing tolerances, bearing press-fits, and robot frame clearances before volume manufacturing.
+> Use the STEP model for dimensions. Check printer tolerances, bearing fits, and frame clearance before making a full set.
 
 ## Gallery
 
@@ -83,11 +83,6 @@ Neutral ISO 10303 STEP exports in [`cad/`](cad/):
 - [`cad/outter plate.step`](cad/outter%20plate.step): Outer bearing retaining plate
 - [`cad/hex shaft mod.step`](cad/hex%20shaft%20mod.step): Machined hex shaft profile
 
-## License & Attribution
+## License
 
-Original design, models, and documentation © 2024–2026 **Angelo Demetroulakos**. Licensed under the **[Creative Commons Attribution 4.0 International License](LICENSE)**.
-
-```text
-Based on Tubba Odometry for FTC by Angelo Demetroulakos and FTC Team 9384 Hydraulic Hydras,
-licensed under CC BY 4.0. Source: https://grabcad.com/library/tubba-odometry-for-ftc-1
-```
+This project is available under the [Creative Commons Attribution 4.0 International License](LICENSE).
