@@ -16,6 +16,8 @@
 
 A compact dead-wheel pod built around an AndyMark Dualie omni wheel and REV Through Bore Encoder.
 
+I developed Tubba for **[EggWUUUHH](https://github.com/AloeVeraZ/FTC9384-2024-Robot)**, our 2023–2024 CENTERSTAGE robot, while I was on **FTC Team 9384 Hydraulic Hydras**.
+
 <strong>Quick navigation:</strong><br>
 [Module Overview](#what-is-tubba) | [Bill of Materials](#bill-of-materials) | [CAD Files](cad/) | [Gallery](#gallery) | [GrabCAD Model](https://grabcad.com/library/tubba-odometry-for-ftc-1)
 
