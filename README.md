@@ -48,7 +48,7 @@ The assembly is built around an AndyMark **2 in. Dualie Omni Wheel** (1/2" hex, 
 
 | Physical Assembled Prototype | Master CAD Solid Assembly |
 | :---: | :---: |
-| <img src="assets/images/prototype-photo.jpg" alt="Tubba Odometry prototype" width="100%"> | <img src="assets/images/assembly-render.png" alt="Complete Tubba Odometry CAD assembly" width="100%"> |
+| <picture><img src="assets/images/prototype-photo.jpg" alt="Tubba Odometry prototype" width="100%"></picture> | <picture><img src="assets/images/assembly-render.png" alt="Complete Tubba Odometry CAD assembly" width="100%"></picture> |
 
 </div>
 
@@ -56,7 +56,7 @@ The assembly is built around an AndyMark **2 in. Dualie Omni Wheel** (1/2" hex, 
 
 | Sensor Side Plate CAD | Outer Retaining Plate CAD |
 | :---: | :---: |
-| <img src="assets/images/sensor-plate-render.png" alt="Sensor plate CAD render" width="100%"> | <img src="assets/images/outer-plate-render.png" alt="Outer plate CAD render" width="100%"> |
+| <picture><img src="assets/images/sensor-plate-render.png" alt="Sensor plate CAD render" width="100%"></picture> | <picture><img src="assets/images/outer-plate-render.png" alt="Outer plate CAD render" width="100%"></picture> |
 
 </div>
 
